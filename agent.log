@@ -1,0 +1,117 @@
+2025-12-07 11:22:33,162 - ILASOCAgent - INFO - Log buffer database initialized: log_buffer.db
+2025-12-07 11:22:33,165 - ILASOCAgent - INFO - ============================================================
+2025-12-07 11:22:33,165 - ILASOCAgent - INFO - ILA-SOC Log Collection Agent Starting
+2025-12-07 11:22:33,166 - ILASOCAgent - INFO - Agent ID: fc557ba3-c321-4f58-a5a0-6df33a30aba7
+2025-12-07 11:22:33,166 - ILASOCAgent - INFO - Hostname: Malik
+2025-12-07 11:22:33,166 - ILASOCAgent - INFO - OS Type: Windows
+2025-12-07 11:22:33,167 - ILASOCAgent - INFO - Server URL: http://192.168.100.7:5000
+2025-12-07 11:22:33,167 - ILASOCAgent - INFO - ============================================================
+2025-12-07 11:22:33,168 - ILASOCAgent - INFO - Registering agent fc557ba3-c321-4f58-a5a0-6df33a30aba7 with server...
+2025-12-07 11:22:33,183 - ILASOCAgent - INFO - Agent registered successfully: fc557ba3-c321-4f58-a5a0-6df33a30aba7
+2025-12-07 11:22:33,190 - ILASOCAgent - WARNING - No log files to watch
+2025-12-07 11:22:33,193 - ILASOCAgent - WARNING - win32evtlog not available - Windows Event Log monitoring disabled
+2025-12-07 11:22:33,196 - ILASOCAgent - INFO - Agent started successfully
+2025-12-07 11:22:33,227 - ILASOCAgent - DEBUG - Heartbeat sent successfully
+2025-12-07 11:23:33,249 - ILASOCAgent - DEBUG - Heartbeat sent successfully
+2025-12-07 11:24:33,273 - ILASOCAgent - DEBUG - Heartbeat sent successfully
+2025-12-07 11:25:33,277 - ILASOCAgent - DEBUG - Heartbeat sent successfully
+2025-12-07 11:26:33,322 - ILASOCAgent - DEBUG - Heartbeat sent successfully
+2025-12-07 11:27:33,341 - ILASOCAgent - DEBUG - Heartbeat sent successfully
+2025-12-07 11:28:33,547 - ILASOCAgent - DEBUG - Heartbeat sent successfully
+2025-12-07 11:29:33,555 - ILASOCAgent - DEBUG - Heartbeat sent successfully
+2025-12-07 11:30:33,568 - ILASOCAgent - DEBUG - Heartbeat sent successfully
+2025-12-07 11:31:33,598 - ILASOCAgent - DEBUG - Heartbeat sent successfully
+2025-12-07 11:32:33,606 - ILASOCAgent - DEBUG - Heartbeat sent successfully
+2025-12-07 11:33:33,637 - ILASOCAgent - DEBUG - Heartbeat sent successfully
+2025-12-07 11:34:33,646 - ILASOCAgent - DEBUG - Heartbeat sent successfully
+2025-12-07 11:35:33,686 - ILASOCAgent - DEBUG - Heartbeat sent successfully
+2025-12-07 11:36:33,719 - ILASOCAgent - DEBUG - Heartbeat sent successfully
+2025-12-07 11:37:33,756 - ILASOCAgent - DEBUG - Heartbeat sent successfully
+2025-12-07 11:38:33,786 - ILASOCAgent - DEBUG - Heartbeat sent successfully
+2025-12-07 11:39:33,808 - ILASOCAgent - DEBUG - Heartbeat sent successfully
+2025-12-07 11:40:33,816 - ILASOCAgent - DEBUG - Heartbeat sent successfully
+2025-12-07 11:41:33,844 - ILASOCAgent - DEBUG - Heartbeat sent successfully
+2025-12-07 11:42:33,855 - ILASOCAgent - DEBUG - Heartbeat sent successfully
+2025-12-07 11:43:33,875 - ILASOCAgent - DEBUG - Heartbeat sent successfully
+2025-12-07 11:44:33,892 - ILASOCAgent - DEBUG - Heartbeat sent successfully
+2025-12-07 11:45:06,649 - ILASOCAgent - INFO - Received signal 2, initiating graceful shutdown...
+2025-12-07 11:45:06,650 - ILASOCAgent - INFO - Stopping agent...
+2025-12-07 11:48:41,614 - ILASOCAgent - INFO - Log buffer database initialized: log_buffer.db
+2025-12-07 11:48:41,615 - ILASOCAgent - INFO - ============================================================
+2025-12-07 11:48:41,615 - ILASOCAgent - INFO - ILA-SOC Log Collection Agent Starting
+2025-12-07 11:48:41,616 - ILASOCAgent - INFO - Agent ID: fc557ba3-c321-4f58-a5a0-6df33a30aba7
+2025-12-07 11:48:41,616 - ILASOCAgent - INFO - Hostname: Malik
+2025-12-07 11:48:41,616 - ILASOCAgent - INFO - OS Type: Windows
+2025-12-07 11:48:41,617 - ILASOCAgent - INFO - Server URL: http://192.168.100.7:5000
+2025-12-07 11:48:41,617 - ILASOCAgent - INFO - ============================================================
+2025-12-07 11:48:41,617 - ILASOCAgent - INFO - Registering agent fc557ba3-c321-4f58-a5a0-6df33a30aba7 with server...
+2025-12-07 11:48:41,624 - ILASOCAgent - INFO - Agent registered successfully: fc557ba3-c321-4f58-a5a0-6df33a30aba7
+2025-12-07 11:48:41,628 - ILASOCAgent - INFO - Windows detected: Using Windows Event Log handler for log collection
+2025-12-07 11:48:41,628 - ILASOCAgent - INFO - No file watchers configured for Windows (relying on Windows Event Log handler)
+2025-12-07 11:48:41,652 - ILASOCAgent - INFO - Windows Event Log handler initialized successfully
+2025-12-07 11:48:41,657 - ILASOCAgent - DEBUG - Heartbeat sent successfully
+2025-12-07 11:48:41,658 - ILASOCAgent - INFO - Windows Event Log monitoring started for: Security, System, Application
+2025-12-07 11:48:41,659 - ILASOCAgent - INFO - Note: Administrator privileges may be required for full access to Security logs
+2025-12-07 11:48:41,660 - ILASOCAgent - INFO - Starting test log generator to ensure log transmission is working
+2025-12-07 11:48:41,661 - ILASOCAgent - WARNING - Cannot read Security log - administrator privileges required. Continuing with other logs...
+2025-12-07 11:48:41,664 - ILASOCAgent - INFO - Test logs will be generated every 10 seconds alongside real logs (if available)
+2025-12-07 11:48:41,667 - ILASOCAgent - INFO - Agent started successfully
+2025-12-07 11:48:41,671 - ILASOCAgent - INFO - Initializing Windows Event Log 'System': will read new events after record 26139
+2025-12-07 11:48:41,674 - ILASOCAgent - INFO - Generated test log #1
+2025-12-07 11:48:41,676 - ILASOCAgent - INFO - Initializing Windows Event Log 'Application': will read new events after record 14451
+2025-12-07 11:48:46,634 - ILASOCAgent - INFO - Batch sender: Collected 1 logs from queue, sending...
+2025-12-07 11:48:46,637 - ILASOCAgent - INFO - Attempting to send 1 logs to server...
+2025-12-07 11:48:46,776 - ILASOCAgent - INFO - Successfully sent 1 logs to server
+2025-12-07 11:48:51,682 - ILASOCAgent - INFO - Generated test log #2
+2025-12-07 11:48:51,783 - ILASOCAgent - INFO - Batch sender: Collected 1 logs from queue, sending...
+2025-12-07 11:48:51,783 - ILASOCAgent - INFO - Attempting to send 1 logs to server...
+2025-12-07 11:48:51,891 - ILASOCAgent - INFO - Successfully sent 1 logs to server
+2025-12-07 11:48:56,899 - ILASOCAgent - DEBUG - Batch sender: Waiting for logs... (queue size: 0)
+2025-12-07 11:49:01,683 - ILASOCAgent - INFO - Generated test log #3
+2025-12-07 11:49:01,915 - ILASOCAgent - INFO - Batch sender: Collected 1 logs from queue, sending...
+2025-12-07 11:49:01,916 - ILASOCAgent - INFO - Attempting to send 1 logs to server...
+2025-12-07 11:49:02,013 - ILASOCAgent - INFO - Successfully sent 1 logs to server
+2025-12-07 11:49:11,696 - ILASOCAgent - INFO - Generated test log #4
+2025-12-07 11:49:12,029 - ILASOCAgent - INFO - Batch sender: Collected 1 logs from queue, sending...
+2025-12-07 11:49:12,029 - ILASOCAgent - INFO - Attempting to send 1 logs to server...
+2025-12-07 11:49:12,136 - ILASOCAgent - INFO - Successfully sent 1 logs to server
+2025-12-07 11:49:21,710 - ILASOCAgent - INFO - Generated test log #5
+2025-12-07 11:49:22,147 - ILASOCAgent - INFO - Batch sender: Collected 1 logs from queue, sending...
+2025-12-07 11:49:22,148 - ILASOCAgent - INFO - Attempting to send 1 logs to server...
+2025-12-07 11:49:22,287 - ILASOCAgent - INFO - Successfully sent 1 logs to server
+2025-12-07 11:49:27,303 - ILASOCAgent - DEBUG - Batch sender: Waiting for logs... (queue size: 0)
+2025-12-07 11:49:31,316 - ILASOCAgent - INFO - Received signal 2, initiating graceful shutdown...
+2025-12-07 11:49:31,317 - ILASOCAgent - INFO - Stopping agent...
+2025-12-07 11:51:54,929 - ILASOCAgent - INFO - Log buffer database initialized: log_buffer.db
+2025-12-07 11:51:54,930 - ILASOCAgent - INFO - ============================================================
+2025-12-07 11:51:54,930 - ILASOCAgent - INFO - ILA-SOC Log Collection Agent Starting
+2025-12-07 11:51:54,930 - ILASOCAgent - INFO - Agent ID: fc557ba3-c321-4f58-a5a0-6df33a30aba7
+2025-12-07 11:51:54,931 - ILASOCAgent - INFO - Hostname: Malik
+2025-12-07 11:51:54,931 - ILASOCAgent - INFO - OS Type: Windows
+2025-12-07 11:51:54,931 - ILASOCAgent - INFO - Server URL: http://localhost:5000
+2025-12-07 11:51:54,931 - ILASOCAgent - INFO - ============================================================
+2025-12-07 11:51:54,932 - ILASOCAgent - INFO - Registering agent fc557ba3-c321-4f58-a5a0-6df33a30aba7 with server...
+2025-12-07 11:51:57,001 - ILASOCAgent - INFO - Agent registered successfully: fc557ba3-c321-4f58-a5a0-6df33a30aba7
+2025-12-07 11:51:57,008 - ILASOCAgent - INFO - Windows detected: Using Windows Event Log handler for log collection
+2025-12-07 11:51:57,008 - ILASOCAgent - INFO - No file watchers configured for Windows (relying on Windows Event Log handler)
+2025-12-07 11:51:57,039 - ILASOCAgent - INFO - Windows Event Log handler initialized successfully
+2025-12-07 11:51:57,040 - ILASOCAgent - INFO - Windows Event Log monitoring started for: Security, System, Application
+2025-12-07 11:51:57,040 - ILASOCAgent - INFO - Note: Administrator privileges may be required for full access to Security logs
+2025-12-07 11:51:57,040 - ILASOCAgent - INFO - Starting test log generator to ensure log transmission is working
+2025-12-07 11:51:57,041 - ILASOCAgent - WARNING - Cannot read Security log - administrator privileges required. Continuing with other logs...
+2025-12-07 11:51:57,042 - ILASOCAgent - INFO - Test logs will be generated every 10 seconds alongside real logs (if available)
+2025-12-07 11:51:57,043 - ILASOCAgent - INFO - Initializing Windows Event Log 'System': will read new events after record 26139
+2025-12-07 11:51:57,043 - ILASOCAgent - INFO - Agent started successfully
+2025-12-07 11:51:57,045 - ILASOCAgent - INFO - Initializing Windows Event Log 'Application': will read new events after record 14452
+2025-12-07 11:51:57,046 - ILASOCAgent - INFO - Generated test log #1
+2025-12-07 11:51:59,031 - ILASOCAgent - DEBUG - Heartbeat sent successfully
+2025-12-07 11:52:02,009 - ILASOCAgent - INFO - Batch sender: Collected 1 logs from queue, sending...
+2025-12-07 11:52:02,009 - ILASOCAgent - INFO - Attempting to send 1 logs to server...
+2025-12-07 11:52:04,139 - ILASOCAgent - INFO - Successfully sent 1 logs to server
+2025-12-07 11:52:07,059 - ILASOCAgent - INFO - Generated test log #2
+2025-12-07 11:52:09,142 - ILASOCAgent - INFO - Batch sender: Collected 1 logs from queue, sending...
+2025-12-07 11:52:09,143 - ILASOCAgent - INFO - Attempting to send 1 logs to server...
+2025-12-07 11:52:11,323 - ILASOCAgent - INFO - Successfully sent 1 logs to server
+2025-12-07 11:52:16,340 - ILASOCAgent - DEBUG - Batch sender: Waiting for logs... (queue size: 0)
+2025-12-07 11:52:16,839 - ILASOCAgent - INFO - Received signal 2, initiating graceful shutdown...
+2025-12-07 11:52:16,840 - ILASOCAgent - INFO - Stopping agent...

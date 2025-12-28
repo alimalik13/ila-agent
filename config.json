@@ -1,0 +1,24 @@
+{
+    "server_url": "http://localhost:5000",
+    "api_key": "ila-soc-agent-key-2024",
+    "agent_id": "fc557ba3-c321-4f58-a5a0-6df33a30aba7",
+    "heartbeat_interval": 60,
+    "batch_interval": 5,
+    "batch_size": 50,
+    "log_sources": {
+        "linux": [
+            "/var/log/syslog",
+            "/var/log/auth.log",
+            "/var/log/secure"
+        ],
+        "windows": [
+            "Security",
+            "System",
+            "Application"
+        ]
+    },
+    "buffer_db": "log_buffer.db",
+    "agent_log_file": "agent.log",
+    "retry_interval": 30,
+    "max_retries": 5
+}
